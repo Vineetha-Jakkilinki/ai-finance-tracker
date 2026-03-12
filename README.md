@@ -21,8 +21,10 @@ cp .env.example .env.local
 ```
 
 4. Add your API keys from services like Clerk and Groq.
+   
+5. Live Demo: https://ai-finance-tracker-five-pi.vercel.app
 
-5. Run the project
+7. Run the project
 
 ```
 npm run dev
